@@ -5,3 +5,4 @@ CLUE-3: SUNSET-19
 LEVEL 4 COMPLETE: fixed the hallway sign 
 LEVEL 5 COMPLETE: on my own branch 
 LEVEL 6 COMPLETE: CHEST CODE: FOX-7
+LEVEL 7 COMPLETE: ran git diff to see changes
