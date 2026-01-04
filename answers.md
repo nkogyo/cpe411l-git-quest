@@ -7,3 +7,4 @@ LEVEL 5 COMPLETE: on my own branch
 LEVEL 6 COMPLETE: CHEST CODE: FOX-7
 LEVEL 7 COMPLETE: ran git diff to see changes
 LEVEL 8 COMPLETE: PR LINK: https://github.com/nkogyo/cpe411l-git-quest/pull/1
+LEVEL 9 COMPLETE: resolved merge conflict
