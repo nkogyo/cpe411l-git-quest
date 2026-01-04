@@ -3,3 +3,4 @@ LEVEL 2 COMPLETE: Working tree clean
 LEVEL 3 COMPLETE: Viewed commit history
 LEVEL 4 COMPLETE: fixed the hallway sign
 LEVEL 5 COMPLETE: on my own branch
+LEVEL 6 CHEST CODE: FOX-7
