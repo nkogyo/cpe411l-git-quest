@@ -1,2 +1,4 @@
-WELCOM TO GIT QUEST
+WELCOME TO GIT QUEST
+# Conflict resolved: keeping both edits
 # Main branch edit for conflict
+# Student branch edit for conflict
